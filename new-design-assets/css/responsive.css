@@ -1,0 +1,69 @@
+/* Mobile responsive CSS */
+
+@media only screen and (max-width: 600px) {
+  .sm-flex-column {
+    flex-direction: column;
+  }
+
+  .sm-content-center {
+    justify-content: center;
+  }
+
+  .sm-column-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .hero-section-wrapper {
+    min-height: 770px;
+  }
+
+  .sm-hero-container {
+    height: auto;
+    width: auto;
+  }
+
+  .sm-px {
+    padding-left: unset !important;
+    padding-right: unset !important;
+  }
+  
+  .sm-no-pr { padding-right: unset !important; }
+  .sm-no-mr { padding-right: unset !important; }
+  .sm-mb-2 { margin-bottom: 2rem; }
+  .sm-no-max-width { max-width: unset !important; }
+  .hero-link { margin-top: 8vw; font-size: 1rem !important; }
+  
+  .sm-text-align-justify {
+    text-align: justify;
+  }
+  
+  .sm-icon-wrapper {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .sm-icon-wrapper img {
+    height: 30px;
+    width: 30px;
+  }
+
+  .sm-mb-4 { margin-bottom: 2rem !important; }
+  
+  .contact-us-wrapper form { text-align: center; }
+  .contact-us-wrapper .pe-5 { padding-right: unset !important }
+  .get-in-touch { padding: 3vmax; }
+  .git-title { font-size: 17px; }
+  .standard-paragraph { font-size: 14px; }
+
+  .footer-main { margin: auto var(--bs-gutter-x,.75rem) !important; padding: 0 20px !important; }
+  .footer-main .mt-5 { margin-top: unset !important; }
+  .footer-logo { display: flex; align-items: center; }
+  .footer-group { width: 100%; }
+  .footer-group .nav-items { justify-content: space-between; margin-bottom: 10px; }
+  .footer-links-wrapper { gap: 10px !important; margin-top: 3rem !important; }
+  .sm-font-11 { font-size: 11px; }
+  footer .git-title { font-size: 13px }
+  footer .standard-paragraph { font-size: 10px }
+
+
+}

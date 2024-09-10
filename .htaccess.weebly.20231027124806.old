@@ -1,0 +1,37 @@
+
+RewriteOptions inherit
+RewriteEngine On
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [NC,L]
+
+Redirect /mn/rosemount/realtors/agents/ https://ballparkrealtymn.com/index
+
+ErrorDocument 404 https://ballparkrealtymn.com/index.php
+
+#Options +FollowSymLinks
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteBase /
+RewriteRule (.*)/agents/ /beta.tap.php?r=62ce0f9440dd2&city=$1 [L]
+#LINE BELOW GENERATED FROM THE HTACCESS URL PORTION OF EDIT TEMPLATE (AS LOWERCASE). DATA ENTERED WAS: mn/[city]/real-estate/[spin1]/
+RewriteRule mn/(.*)/real-estate/(.*)/ /beta.tap.php?r=6283c50501d5c&city=$1&spin1=$2 [L]
+#LINE BELOW GENERATED FROM THE HTACCESS URL PORTION OF EDIT TEMPLATE (AS LOWERCASE). DATA ENTERED WAS: mn/[city]/realtors/[spin]/
+RewriteRule mn/(.*)/realtors/(.*)/ /beta.tap.php?r=6209e27687b11&city=$1&spin=$2 [L]
+</IfModule>
+RewriteCond %{HTTP_HOST} ^ballparkrealtymn\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ballparkrealtymn\.com$
+RewriteRule ^/?$ "https\:\/\/ballparkrealtymn\.idxbroker\.com\/idx\/roster" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php80” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php80___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

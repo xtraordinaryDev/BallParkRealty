@@ -1,0 +1,85 @@
+User-agent: Google
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-apple-valley-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-bloomington-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-bridgewater-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-burnsville-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-cannon-falls-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-castle-rock-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-cedar-lake-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-coates-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-cottage-grove-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-credit-river-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-dennison-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-douglas-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-dundas-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-eagan-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-eden-prairie-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-edina-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-elko-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-elko-new-market-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-empire-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-eureka-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-farmington-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-forest-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-greenvale-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-grey-cloud-island-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-hampton-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-hastings-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-helena-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-inver-grove-heights-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-jordan-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-lilydale-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-lonsdale-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-louisville-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-marshan-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-mendota-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-mendota-heights-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-new-market-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-new-prague-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-new-trier-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-newport-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-nininger-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-northfield-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-prior-lake-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-randolph-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-richfield-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-rosemount-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-saint-paul-park-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-sand-creek-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-savage-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-sciota-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-shakopee-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-south-saint-paul-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-spring-lake-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-stanton-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-sunfish-lake-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-vermillion-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-waterford-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-webster-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-west-saint-paul-mn/
+Allow: /https://ballparkrealtymn.com/real-estate-brokers-wheatland-mn/
+  Allow: /https://ballparkrealtymn.com/
+  Allow: /https://ballparkrealtymn.com/the-ballpark-realty-difference/
+  Allow: /https://ballparkrealtymn.com/our-agents/
+  Allow: /https://ballparkrealtymn.com/mortgage-calculator/
+  Allow: /https://ballparkrealtymn.com/trusted-partners/
+  Allow: /https://ballparkrealtymn.com/contact/
+  Allow: /https://ballparkrealtymn.com/testimonials/
+  Allow: /https://ballparkrealtymn.com/agent/rick-ballew/
+  Allow: /https://ballparkrealtymn.com/agent/krista-hunt/
+  Allow: /https://ballparkrealtymn.com/agent/chris-tomberlin/
+  Allow: /https://ballparkrealtymn.com/agent/sean-mckamie/
+  Allow: /https://ballparkrealtymn.com/agent/kathi-kemmet/
+  Allow: /https://ballparkrealtymn.com/agent/shawna-joyce/
+  Allow: /https://ballparkrealtymn.com/agent/stacey/
+  Allow: /https://ballparkrealtymn.com/agent/john-mulkern/
+  Allow: /https://ballparkrealtymn.com/agent/jo-burr/
+  Allow: /https://ballparkrealtymn.com/agent/byron-lindsey/
+  Allow: /https://ballparkrealtymn.com/our-agents/page/2/
+  Allow: /https://ballparkrealtymn.com/property/1832-iglehart-ave-st-paul-mn/
+  Allow: /https://ballparkrealtymn.com/property/an-executive-twin-home/
+  Allow: /https://ballparkrealtymn.com/agent/21629/
+  Allow: /https://ballparkrealtymn.com/agent/trina-menifee/
+  Allow: /https://ballparkrealtymn.com/agent/lizze-gladden/
+  Allow: /https://ballparkrealtymn.com/agent/katie-knight/
+  Allow: /https://ballparkrealtymn.com/agent/jake-wypyszynski/

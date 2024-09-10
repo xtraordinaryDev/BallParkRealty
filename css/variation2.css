@@ -1,0 +1,152 @@
+img{
+	max-width: 100%;
+}
+.space{
+	padding: 60px 0;
+}
+.wos-team-box2{
+	border: 1px solid #e3e3e3;
+	border-radius: 10px;
+	padding: 1.5rem 1.5rem;
+	    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    background-color: #FFF;
+    color: #FFF;
+    position: relative;
+    overflow: hidden;
+    transition: all ease-in-out 0.5s;
+}
+.wos-team-box-image2{
+		justify-self: center;
+    border: 2px solid #e3e3e3;
+    border-radius: 100%;
+    padding: .25rem;
+    overflow: hidden;
+    margin: 0 auto;
+    transition: all ease-in-out 0.9s; 
+}
+.wos-team-box-image2 a{
+
+}
+.wos-team-box-image2 a img{
+	object-fit: cover;
+	width: 150px;
+	height: 150px;
+    object-position: 50% 50%;
+      border-radius: 100%;
+}
+.wos-team-box-body2{
+text-align: center;
+padding-top: 1rem;
+position: relative;
+}
+.wos-team-box-body2 h3{
+	    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.wos-team-box-body2 h3 a{
+text-decoration: none;
+color: #1e90ff;
+font-size: unset;
+font-weight: unset;
+}
+.wos-team-box-body2 h3 a:hover{
+color: #e3e3e3;
+}
+.wos-team-box-phone2{
+	font-size: 14px !important;
+	font-weight: bold;
+	padding: 15px 0;
+	color: #5a5a5a;
+
+}
+.wos-team-box-phone2 p{
+	line-height: 2em;
+	margin-bottom: 0;
+}
+.wos-team-box-phone2 a{
+	text-decoration: none;
+color: #1e90ff;
+font-size: 20px;
+font-weight: 400;
+}
+.wos-team-box-phone2 a:hover{
+color: #e3e3e3;
+}
+
+.wos-team_infobox2{
+	    position: absolute;
+    bottom: -100%;
+    transition: all ease-in-out 0.9s;
+	width: 100%;
+	opacity: 0;
+}
+.wos-team_infobox2 a{
+	text-decoration: none;
+	color: #1e90ff;;
+	background-color: #e3e3e3;
+	display: block;
+	    padding: 0px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: .2rem;
+    border: 1px solid transparent;
+    transition: all ease-in-out 0.3s;
+}
+.wos-team_infobox2 a:hover{
+	background-color: #2a6496;
+	color: #FFF;
+	
+}
+.wos-team_infobox2 a:last-child{
+	margin-bottom: 0;
+}
+.wos-team_infobox2 a i{
+	margin-right: 5px;
+}
+.wos-team-box2:hover .wos-team_infobox2{
+	bottom: 0;
+	opacity: 1;
+	background-color: #1e90ff;
+}
+.wos-team-box2:hover .wos-team-box-image2{
+	
+}
+.wos-team-box2:hover{
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	background-color: #1e90ff;
+	border: 1px solid #1e90ff;
+}
+.wos-team-box2:hover .wos-team-box-image2{
+
+}
+.wos-team-box2:hover .wos-team-box-body2 h3 a, .wos-team-box2:hover .wos-team-box-phone2 a, .wos-team-box2:hover .wos-team-box-phone2{
+	color: #FFF;
+}
+.wos-banner img {
+    width: 100%;
+}
+.sm-hidden{}
+.sm-visible{display:none;}
+@media only screen and (max-width : 1024px) {}
+@media only screen and (max-width : 959px) {
+	#home{
+		margin-top: 125px;
+		margin-bottom: 25px;
+	}
+}
+@media only screen and (max-width : 767px) {
+	#home{
+		margin-top: 125px;
+		margin-bottom: 25px;
+	}
+	.sm-hidden{display: none;}
+	.sm-visible{display:block;}
+}
+@media only screen and (max-width : 420px) {
+	.custom-w-100{
+		width: 100%;
+	}
+}

@@ -1,0 +1,6 @@
+function validateEmail($email){var emailReg=/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;return emailReg.test($email)}
+$("#contact").click(function(e){e.preventDefault();var name=$.trim($("#userName").val());var email=$.trim($("#userEmail").val());var date=$.trim($("#Date").val());var description=$.trim($("#content").val());$('.notvalid').remove();if(name!=''&&date!=''&&description!=''&&email!=''&&validateEmail(email)){var formData=$("#wos-contact-form").serialize();$(this).after('<div class="wos-success bg-success"></div>');var url="contact_mail.php";$.ajax({type:"POST",url:url,data:formData,success:function(data){$('.wos-success').text(data);$('.wos-success').fadeIn(300)}})}else{if(description==''){$('#content').css('border-color','#EF4036');$('#content').focus()}else{$('#content').css('border-color','#ccc')}
+if(date==''){$('#Date').css('border-color','#EF4036');$('#Date').focus()}else{$('#Date').css('border-color','#ccc')}
+if(!validateEmail(email)||email==''){$('#userEmail').css('border-color','#EF4036');$('#userEmail').focus()}else{$('#userEmail').css('border-color','#ccc')}
+if(name==''){$('#userName').css('border-color','#EF4036');$('#userName').focus()}else{$('#userName').css('border-color','#ccc')}
+$(this).after('<div class="notvalid bg-danger">Please fill form correctly.</div>')}})

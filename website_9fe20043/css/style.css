@@ -1,0 +1,141 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap);html{scroll-behavior:smooth}body{font-family:"Open Sans",sans-serif;font-weight:400;color:#1F2937}h1,h2,h3,h4,h5,h6{font-family:"Montserrat",sans-serif;font-weight:500;font-style:normal}img{max-width:100%}a{text-decoration:none}header{position:relative;background:rgb(254,254,254);background:linear-gradient(180deg,rgba(254,254,254,1) 0%,rgba(203,203,203,1) 100%)}.top-nav{padding:20px 0}
+.header-btn{border:1px solid #015a9c;color:#202938;font-weight:600;font-family:"Montserrat",sans-serif;font-size:16px;padding:8px 25px;border-radius:30px}
+.nav-link{font-family:"Montserrat",sans-serif;color:#1f2837;font-size:16px}.nav-center{margin:0 auto}.navbar-brand{margin-right:0}.navbar-nav li{margin:0 10px}.banner-content{margin-top:100px}.banner-content h6{font-family:unset;font-size:20px;font-weight:600;color:#005A9C}.banner-content h2{font-family:unset;font-size:50px;font-weight:700;color:#1F2937;margin-bottom:30px}.banner-content ul{list-style-type:none;padding-left:0}.banner-content ul li{display:inline-block;margin:0 10px;width:calc(33.33% - 30px);text-align:center}.banner-content ul li img{margin-bottom:10px;height:65px}.banner-content ul li a{display:block;background-color:#015a9c;color:#FFF;padding:6px 10px;border-radius:8px;font-size:16px}
+.header-image img{width:57%;
+  clip-path: circle();
+}
+
+@media (max-width: 767px){
+.header-image img{width:43%}
+}  
+@media (max-width: 767px){
+  .sig-IMG img{width:150%}
+  } 
+.banner-space{padding:40px 0;
+    background-image: url('images/Image-14.webp');
+    background-repeat: no-repeat;
+  background-size: auto;
+}
+.up_down_space{padding:60px 0}.about-content h3{font-size:30px;font-weight:700}.about-content h4{font-size:22px;font-weight:700}.about-content ul li{margin-bottom:4px}.section-heading h2{font-weight:600;font-size:32px}.reviews-content{background:#FFF;padding:30px 30px 30px 60px;border-radius:20px;position:relative;box-shadow:rgba(0,0,0,.26) 0 1px 4px}.reviews-content h3{font-size:22px;font-weight:600}.reviews-content p{font-size:14px}.reviews-content p strong{color:#646464;font-size:14px;font-weight:600}.reviews-content p small{color:#646464;font-size:14px}.reviews-content p i{color:#005A9C}.reviews-content p:last-child{margin-bottom:0}.mb_0{margin-bottom:0}.shape{width:42px;height:181px;background-color:#005A9C;border-top-right-radius:15px;border-bottom-left-radius:15px;position:absolute;top:14%;left:0}.owl-theme .owl-nav{display:block!important}.carousel-control-next-icon:after{content:'\f105';font-size:45px;color:#005A9C;font-family:FontAwesome}.carousel-control-prev-icon:after{content:'\f104';font-size:45px;color:#005A9C;font-family:FontAwesome}.carousel-control-prev-icon,.carousel-control-next-icon{background-image:unset}#review-carousel .owl-nav{display:block!important;position:absolute;top:50%;width:100%;left:0;transform:translate(0,-50px)}#review-carousel .owl-nav .owl-prev{position:absolute;left:-50px}#review-carousel .owl-nav .owl-next{position:absolute;right:-50px}.owl-theme .owl-nav [class*='owl-']:hover{background:unset!important}.owl-carousel .owl-stage-outer{padding:1px}.contact-details h6{font-size:16px;color:#005A9C}.contact-details h2{font-size:30px;color:#1F2937;font-weight:700;margin-bottom:15px}.contact-details label{font-size:16px;margin-bottom:8px;font-family:"Montserrat",sans-serif;font-weight:500}
+.contact-details input,.contact-details textarea{font-size:14px;color:#747582;background-color:#e4e4e6;border:1px solid #0000001A;padding:12px}.contact-details input::placeholder,.contact-details textarea::placeholder{color:#747582}.form-group{margin-bottom:15px}.contact-details button{font-size:16px;font-family:"Montserrat",sans-serif;font-weight:600;border:0;background:linear-gradient(97.32deg,rgba(0,90,156,.69) -3.47%,rgba(89,63,251,.76) 108.43%);color:#FFF;border-radius:8px;padding:12px 30px}.form-control:focus{box-shadow:0 0 0 .25rem rgb(0 90 156 / 16%)}.contact-image img{height:400px;margin-top:35px}.navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(225, 225, 225, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.error{border:1px solid red}.wos-success{background-color:#4CAF50;color:#FFF}.head_btn{text-align:center;position:relative;overflow:hidden;cursor:pointer}.head_btn a{text-decoration:none;color:#fff;position:absolute;width:100%;left:0;top:33%;transition:all ease-in-out 0.3s}.head_btn:hover a{transform:rotate(343deg)}.head_btn a::before{content:"";border-top:2px solid #FFF;position:absolute;left:12%;top:-2px;width:75%;transition:all ease-in-out 0.3s}.head_btn a::after{content:"";border-top:2px solid #FFF;position:absolute;right:12%;bottom:-5px;width:75%;transition:all ease-in-out 0.3s}.head_btn:hover a:before,.head_btn:hover a:after{width:94%}@media only screen and (max-width :768px){.navbar-toggler{background-color:#005A9C}.navbar-nav li{margin-left:0;margin-right:0;margin-bottom:8px}.banner-content{margin-top:unset}.banner-content ul li{width:calc(50% - 30px);margin-bottom:10px}.banner-content h2{font-size:37px;margin-bottom:15px}#review-carousel .owl-nav .owl-next{right:-40px}#review-carousel .owl-nav .owl-prev{left:-40px}.owl-dots{display:none}.banner-content ul li a{font-size:14px}.head_btn{margin-bottom:12px}.head_btn a{top:26%}}@media only screen and (max-width :767px){.banner-content ul li{width:calc(33.33% - 23px)}.rev-column{flex-direction:column-reverse}
+.banner-space{padding:20px 0;
+    background-image: url('images/Image-14.webp');
+    background-repeat: no-repeat;
+  background-size: auto;
+
+}.about-content img{margin-bottom:20px}.dis-none{display:none}#review-carousel .owl-nav .owl-next{right:-50px}#review-carousel .owl-nav .owl-prev{left:-50px}.contact-image img{height:unset;margin-top:unset;margin-bottom:20px}.up_down_space{padding:40px 0}.section-heading h2{font-size:28px}.contact-details h2,.about-content h3{font-size:26px}
+.head_btn a{top:34%}}@media only screen and (max-width :420px){.navbar-brand img{height:45px}
+.banner-content ul li{width:calc(100% - 23px);text-align:unset}.banner-content ul li a{display:unset}.banner-content ul li img{margin-bottom:unset;margin-right:10px}.section-heading h2{font-size:26px}#review-carousel .owl-nav .owl-next{right:0}#review-carousel .owl-nav .owl-prev{left:0}.carousel-control-prev-icon:after{color:#FFF}.banner-content h2{font-size:32px}.head_btn a{top:26%}}
+
+/* Facebook */
+.fa-facebook {
+  background: black;
+  color: white;
+}
+
+/* Twitter */
+.fa-instagram {
+  background: black;
+  color: white;
+}
+/* Twitter */
+.fa-phone {
+  background: black;
+  color: white;
+}
+.fa-envelope-o {
+  background: black;
+  color: white;
+}
+
+.fa {
+  padding: 5px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  vertical-align: sub;
+  font-size: 20px;
+  
+}
+@media (max-width: 767px){
+  .fa{margin-bottom: 15px;}
+  }
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+.head_btn:hover {
+  opacity: 0.9;
+} 
+.review_btn {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid #015a9c;
+  color: #202938;
+  font-weight: 600;
+  font-family: "Montserrat",sans-serif;
+  font-size: 16px;
+  padding: 8px 25px;
+  border-radius: 30px;}
+
+  .license{
+    color: #ffffff;
+    font-size: xx-small;
+  }
+
+  @media only screen and (max-width: 768px){
+.banner-content {
+    text-align: center;
+}
+  }
+
+  .fade-in-image {
+    animation: fadeIn 3s;
+    -webkit-animation: fadeIn 3s;
+    -moz-animation: fadeIn 3s;
+    -o-animation: fadeIn 3s;
+    -ms-animation: fadeIn 3s;
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes fadeInUp {
+    0% {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0%);
+      opacity: 1;
+    }
+  }
+  
+  .fadeInUp-animation {
+    animation: 1.5s fadeInUp;
+  }

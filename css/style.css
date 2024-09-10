@@ -1,0 +1,98 @@
+img{
+	max-width: 100%;
+}
+.space{
+	padding: 60px 0;
+}
+.wos-team-box{
+	border: 1px solid #e3e3e3;
+	border-radius: 10px;
+	padding: 1.5rem 1.5rem;
+	    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.wos-team-box-image{
+		justify-self: center;
+    border: 2px solid #e3e3e3;
+    border-radius: 100%;
+    padding: .25rem;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.wos-team-box-image a{
+
+}
+.wos-team-box-image a img{
+	object-fit: cover;
+	width: 150px;
+	height: 150px;
+    object-position: 50% 50%;
+      border-radius: 100%;
+}
+.wos-team-box-body{
+text-align: center;
+padding-top: 1rem;
+}
+.wos-team-box-body h3{
+	    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.wos-team-box-body h3 a{
+text-decoration: none;
+color: #0076AD;
+font-size: unset;
+font-weight: unset;
+}
+.wos-team-box-body h3 a:hover{
+text-decoration: underline;
+color: #2a6496;
+}
+.wos-team-box-phone{
+	color: #5a5a5a;
+	font-size: 14px !important;
+	font-weight: bold;
+	padding: 15px 0;
+
+}
+.wos-team-box-phone p{
+	line-height: 2em;
+	margin-bottom: 0;
+}
+.wos-team-box-phone a{
+	text-decoration: none;
+color: #0076AD;
+font-size: 20px;
+font-weight: 400;
+}
+.wos-team-box-phone a:hover{
+	text-decoration: underline;
+color: #2a6496;
+}
+
+.wos-team_infobox{}
+.wos-team_infobox a{
+	text-decoration: none;
+	color: #FFF;
+	background-color: #3661B7;
+	display: block;
+	    padding: .05rem 1.3rem;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: .5rem;
+}
+.wos-team_infobox a:last-child{
+	margin-bottom: 0;
+}
+.wos-team_infobox a i{
+	margin-right: 5px;
+}
+@media only screen and (max-width : 1024px) {}
+@media only screen and (max-width : 768px) {}
+@media only screen and (max-width : 767px) {}
+@media only screen and (max-width : 420px) {
+	.custom-w-100{
+		width: 100%;
+	}
+}
