@@ -67,13 +67,7 @@ if (isset($data['result']['reviews'])) {
 
   <section id="meet-the-team" class="pb-100">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <div class="container section-header mb-4">Meet The Team</div>
-    <!--<div id="MeetTeam"class = "container">
-      <div id="idxStart"></div>
-      <div id="idxStop"></div>
-    </div> -->
-
-    <!-- variation 2 -->
+    <div class="container section-header mb-4">Meet The Team</div> <!-- variation 2 -->
     <link rel="stylesheet" type="text/css" href="css/variation2.css">
     <div class="container">
       <div class="space">
@@ -90,7 +84,7 @@ if (isset($data['result']['reviews'])) {
                 </div>
 
                 <div class="wos-team_infobox2">
-                  <a href="mailto: name@email.com"><i class="fa-regular fa-envelope"></i> Contact Sean</a>
+                  <a href="mailto: sean@ballparkrealtymn.com"><i class="fa-regular fa-envelope"></i> Contact Sean</a>
                 </div>
               </div>
             </div>
@@ -165,12 +159,40 @@ if (isset($data['result']['reviews'])) {
               </div>
             </div>
           </div>
+          <div class="col-lg-3 col-md-6 col-6 custom-w-100">
+            <div class="wos-team-box2">
+              <div class="wos-team-box-image2">
+                <a href="#"><img src="new-design-assets/images/angie.png"></a>
+              </div>
+              <div class="wos-team-box-body2">
+                <h3><a href="mailto: angdegraff@gmail.com">Angie DeGraff</a></h3>
+                <div class="wos-team-box-phone2">
+                  <p>Cell Phone <span><br><a href="tel:952.463.5756">952.463.5756</a></span></p>
+                </div>
+
+                <div class="wos-team_infobox2">
+                  <a href="mailto: angdegraff@gmail.com"><i class="fa-regular fa-envelope"></i> Contact Angie</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
 
   </section>
+
+  <style>
+    .section-header {
+      font-size: 2em;
+      font-weight: bold;
+      color:rgb(255, 255, 255);
+      text-align: center;
+      padding: 20px;
+      border-bottom: 2px solid #ecf0f1;
+    }
+  </style>
 
 
 
@@ -362,160 +384,160 @@ if (isset($data['result']['reviews'])) {
 
 
 
-<div class="d-flex justify-content-center mt-5">
-  <a href="https://www.google.com/localservices/prolist?spp=CgsvZy8xdGQwejBscQ%3D%3D&src=2&slp=UhMIARIPEg0iCy9nLzF0ZDB6MGxx#ts=3" target="_blank" class="p-link">See All Reviews</a>
-  <!-- <a href="https://www.google.com/maps/place/Ballpark+Realty/@44.7104748,-93.2397593,17z/data=!4m8!3m7!1s0x87f6376a9790e63f:0x44a075be39cf40ba!8m2!3d44.7104748!4d-93.2397593!9m1!1b1!16s%2Fg%2F1td0z0lq?entry=ttu" target="_blank" class="p-link">See All Reviews</a> -->
-</div>
-</section>
-<!-- google review section ends -->
-
-<!-- save thousands section starts -->
-<section id="about" class="dtr-section pb-100">
-  <div class="container">
-    <div class="row px-5 sm-px">
-
-      <div class="col-12 col-md-6 small-device-space sm-no-pr" style="padding-right: 25px">
-        <div class="dtr-video-wrapper dtr-video-center dtr-video-btn-white h-100 dtr-xl-rounded" style="background-image: url(https://ballparkrealtymn.com/bizops/assets/images/img-4.jpg);">
-          <a class="dtr-video-popup dtr-video-button vbox-item" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=NRu3h0Rp1L4"><span class="dtr-video-button-inner"></span><span class="dtr-border-animation dtr-border-1"></span> <span class="dtr-border-animation dtr-border-2"></span> <span class="dtr-border-animation dtr-border-3"></span>
-          </a>
-        </div>
-      </div>
-
-      <div class="col-12 col-md-6" style="padding-left: 25px">
-        <div class="blank-space-right">
-          <h2 class="c-black">Save Thousands<br>with our 4.5% Listing<br>Rate!
-          </h2>
-          <p class="color-dark sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">Having a well-thought-out strategy is essential in any endeavor, whether playing
-            baseball or buying or selling a house. To help our clients make informed decisions, Ballpark Realty
-            focuses on providing them with the expertise and knowledge they need. <br>
-            It shouldn't cost you more to have a great real estate experience, whether you're
-            buying or selling. Compared to the industry average of 6%, Ballpark Realty's listing rate is 4.5%, which
-            means that the profits you earn you keep. </p>
-          <p class="dtr-mt-40 color-dark" style="font-size: 16px; line-height: 1.5rem;">To speak to representative, call <a href="tel:1-952-431-1930"><span class="font-weight-bold c-blue">952-431-1930</span></a>. We're here to answer any question you
-            may have.</p>
-        </div>
-      </div>
-
+    <div class="d-flex justify-content-center mt-5">
+      <a href="https://www.google.com/localservices/prolist?spp=CgsvZy8xdGQwejBscQ%3D%3D&src=2&slp=UhMIARIPEg0iCy9nLzF0ZDB6MGxx#ts=3" target="_blank" class="p-link">See All Reviews</a>
+      <!-- <a href="https://www.google.com/maps/place/Ballpark+Realty/@44.7104748,-93.2397593,17z/data=!4m8!3m7!1s0x87f6376a9790e63f:0x44a075be39cf40ba!8m2!3d44.7104748!4d-93.2397593!9m1!1b1!16s%2Fg%2F1td0z0lq?entry=ttu" target="_blank" class="p-link">See All Reviews</a> -->
     </div>
-  </div>
-</section>
-<!-- save thousands section ends -->
+  </section>
+  <!-- google review section ends -->
 
-<!-- search sale section starts -->
-<section id="savings" class="dtr-section pb-100">
-  <div class="container">
-    <div class="row px-5 sm-px sm-column-reverse">
+  <!-- save thousands section starts -->
+  <section id="about" class="dtr-section pb-100">
+    <div class="container">
+      <div class="row px-5 sm-px">
 
-      <div class="col-12 col-md-4 d-flex align-items-center">
-        <div class="blank-space-right sm-mb-2">
-          <h3 class="c-black">Find Properties<br>For Sale
-          </h3>
-          <p class="color-dark me-3 mb-4 sm-no-mr sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">
-            From our energetic team and an outside-the-box approach to real estate, we coach you every step of the way.
-          </p>
-          <a href="#contact-us" class="p-link">Find Properties</a>
+        <div class="col-12 col-md-6 small-device-space sm-no-pr" style="padding-right: 25px">
+          <div class="dtr-video-wrapper dtr-video-center dtr-video-btn-white h-100 dtr-xl-rounded" style="background-image: url(https://ballparkrealtymn.com/bizops/assets/images/img-4.jpg);">
+            <a class="dtr-video-popup dtr-video-button vbox-item" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=NRu3h0Rp1L4"><span class="dtr-video-button-inner"></span><span class="dtr-border-animation dtr-border-1"></span> <span class="dtr-border-animation dtr-border-2"></span> <span class="dtr-border-animation dtr-border-3"></span>
+            </a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-12 col-md-6 offset-md-1 sm-mb-2">
-        <div>
-          <img src="https://ballparkrealtymn.com/new-design-assets/images/search-sale-properties.png" style="width: 675px" alt="image" class="dtr-xl-rounded-img">
+        <div class="col-12 col-md-6" style="padding-left: 25px">
+          <div class="blank-space-right">
+            <h2 class="c-black">Save Thousands<br>with our 4.5% Listing<br>Rate!
+            </h2>
+            <p class="color-dark sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">Having a well-thought-out strategy is essential in any endeavor, whether playing
+              baseball or buying or selling a house. To help our clients make informed decisions, Ballpark Realty
+              focuses on providing them with the expertise and knowledge they need. <br>
+              It shouldn't cost you more to have a great real estate experience, whether you're
+              buying or selling. Compared to the industry average of 6%, Ballpark Realty's listing rate is 4.5%, which
+              means that the profits you earn you keep. </p>
+            <p class="dtr-mt-40 color-dark" style="font-size: 16px; line-height: 1.5rem;">To speak to representative, call <a href="tel:1-952-431-1930"><span class="font-weight-bold c-blue">952-431-1930</span></a>. We're here to answer any question you
+              may have.</p>
+          </div>
         </div>
-      </div>
 
+      </div>
     </div>
-  </div>
-</section>
-<!-- search sale section ends -->
+  </section>
+  <!-- save thousands section ends -->
 
-<!-- sell your property section starts -->
-<section class="dtr-section pb-100">
-  <div class="container">
-    <div class="row px-5 sm-px">
+  <!-- search sale section starts -->
+  <section id="savings" class="dtr-section pb-100">
+    <div class="container">
+      <div class="row px-5 sm-px sm-column-reverse">
 
-      <div class="col-12 col-md-5">
-        <div>
-          <img src="https://ballparkrealtymn.com/new-design-assets/images/sell-your-property.png" alt="image" class="dtr-xl-rounded-img">
+        <div class="col-12 col-md-4 d-flex align-items-center">
+          <div class="blank-space-right sm-mb-2">
+            <h3 class="c-black">Find Properties<br>For Sale
+            </h3>
+            <p class="color-dark me-3 mb-4 sm-no-mr sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">
+              From our energetic team and an outside-the-box approach to real estate, we coach you every step of the way.
+            </p>
+            <a href="#contact-us" class="p-link">Find Properties</a>
+          </div>
         </div>
-      </div>
 
-      <div class="col-12 col-md-6 d-flex justify-content-center align-items-center">
-        <div style="max-width: 60%" class="sm-no-max-width">
-          <h3 class="c-black">Sell Your Property
-          </h3>
-          <p class="color-dark me-3 mb-4 sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">
-            Save with our 4.5% Listing Fee! We keep our overhead low and our competence high in order to assist you in winning.
-          </p>
-          <a href="#contact-us" class="p-link">Sell Your Property</a>
+        <div class="col-12 col-md-6 offset-md-1 sm-mb-2">
+          <div>
+            <img src="https://ballparkrealtymn.com/new-design-assets/images/search-sale-properties.png" style="width: 675px" alt="image" class="dtr-xl-rounded-img">
+          </div>
         </div>
-      </div>
 
+      </div>
     </div>
-  </div>
-</section>
-<!-- sell your property section ends -->
+  </section>
+  <!-- search sale section ends -->
 
-<!-- let us help you save section starts -->
-<!-- <section class="dtr-section pb-100">
+  <!-- sell your property section starts -->
+  <section class="dtr-section pb-100">
+    <div class="container">
+      <div class="row px-5 sm-px">
+
+        <div class="col-12 col-md-5">
+          <div>
+            <img src="https://ballparkrealtymn.com/new-design-assets/images/sell-your-property.png" alt="image" class="dtr-xl-rounded-img">
+          </div>
+        </div>
+
+        <div class="col-12 col-md-6 d-flex justify-content-center align-items-center">
+          <div style="max-width: 60%" class="sm-no-max-width">
+            <h3 class="c-black">Sell Your Property
+            </h3>
+            <p class="color-dark me-3 mb-4 sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">
+              Save with our 4.5% Listing Fee! We keep our overhead low and our competence high in order to assist you in winning.
+            </p>
+            <a href="#contact-us" class="p-link">Sell Your Property</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- sell your property section ends -->
+
+  <!-- let us help you save section starts -->
+  <!-- <section class="dtr-section pb-100">
   <div class="container">
     <h6 class="c-blue">Let Us Help You Save</h6>
   </div>
 </section> -->
-<!-- let us help you save section ends -->
+  <!-- let us help you save section ends -->
 
-<!-- let us help you save section starts -->
-<section id="contact-us" class="container dtr-section pb-100">
-  <div class="section-header mb-4">Contact Us</div>
-  <div class="contact-us-wrapper d-flex flex-wrap gap-5">
-    <div class="form flex-grow-1 pe-5">
-      <p class="c-blue contact-us-title">Contact Us</p>
-      <h3>Send A Message</h3>
-      <p class="standard-paragraph mb-5">Fill out the form and our team will get back to you as soon as possible.</p>
-      <form action="#">
-        <input type="text" name="email" placeholder="Your E-Mail" class="mb-4">
-        <input type="text" name="phone" placeholder="Phone Number" class="mb-4">
-        <textarea name="message" id="" cols="30" rows="6" placeholder="Your Message" class="mb-4"></textarea>
-        <button type="submit" class="p-button">Submit Now</button>
-      </form>
+  <!-- let us help you save section starts -->
+  <section id="contact-us" class="container dtr-section pb-100">
+    <div class="section-header mb-4">Contact Us</div>
+    <div class="contact-us-wrapper d-flex flex-wrap gap-5">
+      <div class="form flex-grow-1 pe-5">
+        <p class="c-blue contact-us-title">Contact Us</p>
+        <h3>Send A Message</h3>
+        <p class="standard-paragraph mb-5">Fill out the form and our team will get back to you as soon as possible.</p>
+        <form action="#">
+          <input type="text" name="email" placeholder="Your E-Mail" class="mb-4">
+          <input type="text" name="phone" placeholder="Phone Number" class="mb-4">
+          <textarea name="message" id="" cols="30" rows="6" placeholder="Your Message" class="mb-4"></textarea>
+          <button type="submit" class="p-button">Submit Now</button>
+        </form>
+      </div>
+
+      <div class="get-in-touch">
+        <h3>Get in Touch</h3>
+        <p class="standard-paragraph c-lgrey mb-5 sm-mb-4">Contact us to sell or find your dream home</p>
+        <hr class="mb-5 sm-mb-4">
+        <div class="d-flex align-items-center gap-5 mb-5">
+          <div class="icon-wrapper sm-icon-wrapper">
+            <img src="https://ballparkrealtymn.com/new-design-assets/icons/location.svg">
+          </div>
+          <div>
+            <div class="git-title">Visit Us:</div>
+            <p class="standard-paragraph c-lgrey">We Sell All Across The Twin Cities!</p>
+          </div>
+        </div>
+
+        <div class="d-flex align-items-center gap-5 mb-5">
+          <div class="icon-wrapper sm-icon-wrapper">
+            <img src="https://ballparkrealtymn.com/new-design-assets/icons/email.svg">
+          </div>
+          <div>
+            <div class="git-title">Mail Us:</div>
+            <p class="standard-paragraph c-lgrey">info@ballparkrealtymn.com</p>
+          </div>
+        </div>
+
+        <div class="d-flex align-items-center gap-5">
+          <div class="icon-wrapper sm-icon-wrapper">
+            <img src="https://ballparkrealtymn.com/new-design-assets/icons/phone.svg">
+          </div>
+          <div>
+            <div class="git-title">Phone Us:</div>
+            <p class="standard-paragraph c-lgrey">(952) 431-1930</p>
+          </div>
+        </div>
+      </div>
     </div>
-
-    <div class="get-in-touch">
-      <h3>Get in Touch</h3>
-      <p class="standard-paragraph c-lgrey mb-5 sm-mb-4">Contact us to sell or find your dream home</p>
-      <hr class="mb-5 sm-mb-4">
-      <div class="d-flex align-items-center gap-5 mb-5">
-        <div class="icon-wrapper sm-icon-wrapper">
-          <img src="https://ballparkrealtymn.com/new-design-assets/icons/location.svg">
-        </div>
-        <div>
-          <div class="git-title">Visit Us:</div>
-          <p class="standard-paragraph c-lgrey">We Sell All Across The Twin Cities!</p>
-        </div>
-      </div>
-
-      <div class="d-flex align-items-center gap-5 mb-5">
-        <div class="icon-wrapper sm-icon-wrapper">
-          <img src="https://ballparkrealtymn.com/new-design-assets/icons/email.svg">
-        </div>
-        <div>
-          <div class="git-title">Mail Us:</div>
-          <p class="standard-paragraph c-lgrey">info@ballparkrealtymn.com</p>
-        </div>
-      </div>
-
-      <div class="d-flex align-items-center gap-5">
-        <div class="icon-wrapper sm-icon-wrapper">
-          <img src="https://ballparkrealtymn.com/new-design-assets/icons/phone.svg">
-        </div>
-        <div>
-          <div class="git-title">Phone Us:</div>
-          <p class="standard-paragraph c-lgrey">(952) 431-1930</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- let us help you save section ends -->
+  </section>
+  <!-- let us help you save section ends -->
 
 </div>
 <!-- == main content area ends == -->
