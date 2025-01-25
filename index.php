@@ -57,10 +57,10 @@ if (isset($data['result']['reviews'])) {
       </div>
     </div> -->
     <div class="wos-banner sm-hidden">
-      <a href="href=#contact-us"><img src="img/banner.jpg" /></a>
+      <a href="href=#contact-us"><img src="img/Banner2-update.jpg"  /></a>
     </div><!-- .wos-banner -->
     <div class="wos-banner sm-visible">
-      <a href="href=#contact-us"><img src="img/banner-mobile.jpg" /></a>
+      <a href="href=#contact-us"><img src="img/banner3.jpg" /></a>
     </div><!-- .wos-banner -->
   </section>
   <!-- hero section ends -->
