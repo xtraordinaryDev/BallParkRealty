@@ -1,6 +1,6 @@
 <?php
 $title = 'Real Estate Agent | Lakeville Real Estate Agents';
-$description = 'Lakeville Real Estate Agents - Save Thousands with our 4.5% Listing Rate! List your home with Ballpark Realtors in Lakeville, MN, start saving thousands of dollars. We have the best real estate listing fee anywhere around the Lakeville, MN area. Call (952) 431-1930 and speak to one of our real estate agents for information about listing your home with Ballpark Realtors.';
+$description = 'Lakeville Real Estate Agents - Save Thousands with our 1.9% Listing Rate! List your home with Ballpark Realtors in Lakeville, MN, start saving thousands of dollars. We have the best real estate listing fee anywhere around the Lakeville, MN area. Call (952) 431-1930 and speak to one of our real estate agents for information about listing your home with Ballpark Realtors.';
 $keywords = 'Lakeville mn,Lakeville,Lakeville Realtors,Lakeville real estate,Lakeville real estate,Lakeville real estate brokers,listing fee,list home for sale in Lakeville';
 $city = 'Lakeville';
 $url = 'index';
@@ -30,7 +30,7 @@ if (isset($data['result']['reviews'])) {
   <section id="home">
     <!-- <div class="hero-section-wrapper d-flex sm-flex-column sm-content-center">
       <div class="d-flex flex-column justify-content-between hero-container sm-hero-container hero-text-container">
-        <div class="hero-heading">Swing Big and Save<br>Thousands<br>With Our 4.5% Listing<br>Rate!</div>
+        <div class="hero-heading">Swing Big and Save<br>Thousands<br>With Our 1.9% Listing<br>Rate!</div>
         <div class="d-flex justify-content-between align-items-center">
 
           <ul class="top-section-list dtr-mt-30 c-white">
@@ -57,10 +57,10 @@ if (isset($data['result']['reviews'])) {
       </div>
     </div> -->
     <div class="wos-banner sm-hidden">
-      <a href="href=#contact-us"><img src="img/Banner2-update.jpg"  /></a>
+      <a href="href=#contact-us"><img src="new-design-assets/images/Banner-New.jpg"  /></a>
     </div><!-- .wos-banner -->
     <div class="wos-banner sm-visible">
-      <a href="href=#contact-us"><img src="img/banner3.jpg" /></a>
+      <a href="href=#contact-us"><img src="new-design-assets/images/banner-New3-1.jpg" /></a>
     </div><!-- .wos-banner -->
   </section>
   <!-- hero section ends -->
@@ -405,13 +405,13 @@ if (isset($data['result']['reviews'])) {
 
         <div class="col-12 col-md-6" style="padding-left: 25px">
           <div class="blank-space-right">
-            <h2 class="c-black">Save Thousands<br>with our 4.5% Listing<br>Rate!
+            <h2 class="c-black">Save Thousands<br>with our 1.9% Listing<br>Rate!
             </h2>
             <p class="color-dark sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">Having a well-thought-out strategy is essential in any endeavor, whether playing
               baseball or buying or selling a house. To help our clients make informed decisions, Ballpark Realty
               focuses on providing them with the expertise and knowledge they need. <br>
               It shouldn't cost you more to have a great real estate experience, whether you're
-              buying or selling. Compared to the industry average of 6%, Ballpark Realty's listing rate is 4.5%, which
+              buying or selling. Compared to the industry average of 6%, Ballpark Realty's listing rate is 1.9%, which
               means that the profits you earn you keep. </p>
             <p class="dtr-mt-40 color-dark" style="font-size: 16px; line-height: 1.5rem;">To speak to representative, call <a href="tel:1-952-431-1930"><span class="font-weight-bold c-blue">952-431-1930</span></a>. We're here to answer any question you
               may have.</p>
@@ -466,7 +466,7 @@ if (isset($data['result']['reviews'])) {
             <h3 class="c-black">Sell Your Property
             </h3>
             <p class="color-dark me-3 mb-4 sm-text-align-justify" style="font-size: 16px; line-height: 1.5rem;">
-              Save with our 4.5% Listing Fee! We keep our overhead low and our competence high in order to assist you in winning.
+              Save with our 1.9% Listing Fee! We keep our overhead low and our competence high in order to assist you in winning.
             </p>
             <a href="#contact-us" class="p-link">Sell Your Property</a>
           </div>
