@@ -101,7 +101,7 @@ if (isset($data['result']['reviews'])) {
                 </div>
 
                 <div class="wos-team_infobox2">
-                  <a href="mailto: Katie@Ballpearkrealty.com"><i class="fa-regular fa-envelope"></i> Contact Katie</a>
+                  <a href="mailto: Katie@ballparkrealtymn.com"><i class="fa-regular fa-envelope"></i> Contact Katie</a>
                 </div>
               </div>
             </div>
@@ -135,7 +135,7 @@ if (isset($data['result']['reviews'])) {
                 </div>
 
                 <div class="wos-team_infobox2">
-                  <a href="#"><i class="fa-regular fa-envelope"></i> Contact Stacey</a>
+                  <a href="mailto: Stacey@Ballparkrealtymn.com"><i class="fa-regular fa-envelope"></i> Contact Stacey</a>
                 </div>
               </div>
             </div>
