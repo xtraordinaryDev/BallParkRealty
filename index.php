@@ -109,23 +109,6 @@ if (isset($data['result']['reviews'])) {
           <div class="col-lg-3 col-md-6 col-6 custom-w-100">
             <div class="wos-team-box2">
               <div class="wos-team-box-image2">
-                <a href="#"><img src="new-design-assets/images/team3.jpeg"></a>
-              </div>
-              <div class="wos-team-box-body2">
-                <h3><a href="#">Bryon Lindsey</a></h3>
-                <div class="wos-team-box-phone2">
-                  <p>Cell Phone <span><br><a href="tel:952-500-3607">952-500-3607</a></span></p>
-                </div>
-
-                <div class="wos-team_infobox2">
-                  <a href="mailto: Byron@Ballparkrealtymn.com"><i class="fa-regular fa-envelope"></i> Contact Bryon</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 col-6 custom-w-100">
-            <div class="wos-team-box2">
-              <div class="wos-team-box-image2">
                 <a href="#"><img src="new-design-assets/images/team4.jpeg"></a>
               </div>
               <div class="wos-team-box-body2">
